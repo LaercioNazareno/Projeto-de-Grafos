@@ -1,0 +1,3318 @@
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
+4;Roberto;AED;1
+4;Rommel;DIW;1
+4;Rommel;TIS;1
+4;Guta;FS;1
+4;Roberto;Lab;1
+4;JoãoC;IC;1
+4;Eveline;AED II;1
+3;Eveline;LabII;2
+3;Hugo;TIS II;2
+3;Hugo;Modular;2
+3;Tadeu;Modelagem;2
+3;Jose Wilson;AC;2
+2;Eveline;TIS III;3
+2;Sandro;TIS III;3
